@@ -73,3 +73,4 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
 # YOURREPOSITORY
 # Makecoin
+# Makecoin
