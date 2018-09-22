@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Makecoin client sofware, 
+the Makecoin client sofware, www.makecoin.ml
 
 License
 -------
@@ -71,6 +71,6 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./makecoin-qt_test
 
-# YOURREPOSITORY
-# Makecoin
+# Joran Osinga
+# jojoosinga
 # Makecoin
